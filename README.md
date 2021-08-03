@@ -4,4 +4,4 @@
 - Li S, Zhang L, Diao X. Deep-learning-based human intention prediction using RGB images and optical flow. Journal of Intelligent & Robotic Systems. 2020 Jan;97(1):95-107.
 
 ## Research Interests
-I am fascinated by robotics and artificial intelligence. Making more intelligent robots is my major dedication. I am learning and implementing deep reinforcement learning, convolutional neural networks, variational autoencoder in my research.
+I am fascinated by robotics and artificial intelligence. Making more intelligent robots is my major dedication. I am learning and implementing deep reinforcement learning, convolutional neural networks, variational autoencoders in my research.
